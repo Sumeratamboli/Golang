@@ -4,15 +4,11 @@
 
 // func main() {
 // 	fmt.Println(1 +1-10)
-// 	fmt.Println("sumera tamboli")
-// // }
-// package main
-// import ("fmt")
+//	fmt.Println("sumera tamboli")
+// }
 
-// func main() {
-//   fmt.Println("Hello World!")
-//   // fmt.Println("This line does not execute")
-// // }
+
+
 // package main
 // import ("fmt")
 
@@ -58,7 +54,7 @@
 //   fmt.Print(i)
 //   fmt.Print(j)
 // }
-// 
+//
 
 // package main
 // import ("fmt")
@@ -75,7 +71,7 @@
 //   fmt.Println("String:  ", d)
 // }
 
-// 
+//
 
 // package main
 // import ("fmt")
@@ -103,29 +99,7 @@
 //   )
 //   fmt.Println(sum3)
 // }
-// package main
-// import ("fmt")
 
-// func main() {
-//   day := 4
-
-//   switch day {
-//   case 1:
-//     fmt.Println("Monday")
-//   case 2:
-//     fmt.Println("Tuesday")
-//   case 3:
-//     fmt.Println("Wednesday")
-//   case 4:
-//     fmt.Println("Thursday")
-//   case 5:
-//     fmt.Println("Friday")
-//   case 6:
-//     fmt.Println("Saturday")
-//   case 7:
-//     fmt.Println("Sunday")
-//   }
-// }
 
 // package main
 // import ("fmt")
@@ -136,16 +110,36 @@
 //   }
 // }
 
-// 
-// 
+
+
 
 // package main
-// import ("fmt")
+
+// import "fmt"
 
 // func main() {
-//   var a = map[string]string{"brand": "Ford", "model": "Mustang", "year": "1964"}
-//   b := map[string]int{"Oslo": 1, "Bergen": 2, "Trondheim": 3, "Stavanger": 4}
-
-//   fmt.Printf("a\t%v\n", a)
-//   fmt.Printf("b\t%v\n", b)
+//    fmt.Println("Hello World")
 // }
+package main
+ import ("fmt")
+
+ func main() {
+   day := 3
+
+   switch day {
+   case 1:
+    fmt.Println("Monday")
+  case 2:
+    fmt.Println("Tuesday")
+   case 3:
+    fmt.Println("Wednesday")
+  case 4:
+    fmt.Println("Thursday")
+  case 5:
+    fmt.Println("Friday")
+  case 6:
+    fmt.Println("Saturday")
+   case 7:
+    fmt.Println("Sunday")
+  }
+ }
