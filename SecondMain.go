@@ -13,19 +13,6 @@
 // import ("fmt")
 
 // func main() {
-//   var student1 string = "John" //type is string
-//   var student2 = "Jane" //type is inferred
-//   x := 2 //type is inferred
-
-//   fmt.Println(student1)
-//   fmt.Println(student2)
-//   fmt.Println(x)
-// }
-
-// package main
-// import ("fmt")
-
-// func main() {
 //   var a string
 //   var b int
 //   var c bool
@@ -120,26 +107,42 @@
 // func main() {
 //    fmt.Println("Hello World")
 // }
-package main
- import ("fmt")
+// package main
+//  import ("fmt")
 
- func main() {
-   day := 3
+//  func main() {
+//    day := 6
 
-   switch day {
-   case 1:
-    fmt.Println("Monday")
-  case 2:
-    fmt.Println("Tuesday")
-   case 3:
-    fmt.Println("Wednesday")
-  case 4:
-    fmt.Println("Thursday")
-  case 5:
-    fmt.Println("Friday")
-  case 6:
-    fmt.Println("Saturday")
-   case 7:
-    fmt.Println("Sunday")
-  }
- }
+//    switch day {
+//    case 1:
+//     fmt.Println("Monday")
+//   case 2:
+//     fmt.Println("Tuesday")
+//    case 3:
+//     fmt.Println("Wednesday")
+//   case 4:
+//     fmt.Println("Thursday")
+//   case 5:
+//     fmt.Println("Friday")
+//   case 6:
+//     fmt.Println("Saturday")
+//    case 7:
+//     fmt.Println("Sunday")
+//   }
+//  }
+
+
+//  package main
+
+//  import ("fmt")
+
+//  func main() {
+    
+//       var student1 string="Najmin"
+//       var student2="Saima"
+//       x:=2
+//       fmt.Println(student1)
+//       fmt.Println(student2)
+//       fmt.Println(x)
+
+//  }
