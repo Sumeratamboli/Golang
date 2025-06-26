@@ -7,8 +7,6 @@
 //	fmt.Println("sumera tamboli")
 // }
 
-
-
 // package main
 // import ("fmt")
 
@@ -87,7 +85,6 @@
 //   fmt.Println(sum3)
 // }
 
-
 // package main
 // import ("fmt")
 
@@ -96,9 +93,6 @@
 //     fmt.Println(i)
 //   }
 // }
-
-
-
 
 // package main
 
@@ -131,13 +125,12 @@
 //   }
 //  }
 
-
 //  package main
 
 //  import ("fmt")
 
 //  func main() {
-    
+
 //       var student1 string="Najmin"
 //       var student2="Saima"
 //       x:=2
@@ -146,3 +139,11 @@
 //       fmt.Println(x)
 
 //  }
+
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("Hello World")
+}

@@ -1,3 +1,4 @@
-function showAlert() {
-  alert("Button clicked!");
+function scrollToShop() {
+  document.getElementById("shop").scrollIntoView({ behavior: "smooth" });
 }
+
